@@ -157,11 +157,7 @@ li a {
     text-decoration: none;
     margin-top: 6%;
 }
-li a:hover{
 
-    background-color:gray;
-    border-radius: 12px;
-}
 #NBT{
 
     float: left;
