@@ -132,3 +132,41 @@ footer{
 
     color: white;
 }
+ul{
+
+
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:rgb(144, 185, 235);
+
+}
+li{
+    display: inline;
+    float: right;
+    margin-top: 2%;
+}
+li a {
+
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-top: 6%;
+}
+li a:hover{
+
+    background-color:gray;
+    border-radius: 12%;
+}
+#NBT{
+
+    float: left;
+    margin-left: 9%;
+    margin-top: 0%;
+    font-size: xx-large;
+    color:rgba(255, 68, 0, 0.68);
+}
